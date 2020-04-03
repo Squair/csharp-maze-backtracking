@@ -1,0 +1,11 @@
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.exe
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.deps.json
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.runtimeconfig.json
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.runtimeconfig.dev.json
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.dll
+C:\Users\georg\Documents\Projects\C#\maze\bin\Debug\netcoreapp3.0\maze.pdb
+C:\Users\georg\Documents\Projects\C#\maze\obj\Debug\netcoreapp3.0\maze.csprojAssemblyReference.cache
+C:\Users\georg\Documents\Projects\C#\maze\obj\Debug\netcoreapp3.0\maze.AssemblyInfoInputs.cache
+C:\Users\georg\Documents\Projects\C#\maze\obj\Debug\netcoreapp3.0\maze.AssemblyInfo.cs
+C:\Users\georg\Documents\Projects\C#\maze\obj\Debug\netcoreapp3.0\maze.dll
+C:\Users\georg\Documents\Projects\C#\maze\obj\Debug\netcoreapp3.0\maze.pdb
